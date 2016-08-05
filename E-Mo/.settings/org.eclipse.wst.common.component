@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="E-Mo">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="org.springframework.orm-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.orm-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.context-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.context-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.expression-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.expression-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.aspects-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.aspects-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.aop-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.aop-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.oxm-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.oxm-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.web-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.web-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.beans-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.beans-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.jdbc-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.jdbc-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.asm-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.asm-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.test-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.test-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.transaction-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.transaction-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.jms-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.jms-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.web.portlet-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.web.portlet-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.web.struts-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.web.struts-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.web.servlet-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.web.servlet-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.core-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.core-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.context.support-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.context.support-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.instrument.tomcat-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.instrument.tomcat-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.springframework.instrument-3.1.0.M1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/org.springframework.instrument-3.1.0.M1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging-1.1.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/commons-logging-1.1.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="aopalliance.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/aopalliance.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-lang-2.6.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/commons-lang-2.6.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mysql-connector-java-5.1.16-bin.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/spring-framework-3.1.0/spring-framework-3.1.0.M1/dist/mysql-connector-java-5.1.16-bin.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="cos.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Di M/Downloads/cos.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="com.springsource.org.apache.commons.io-1.4.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Di M/Downloads/jar/com.springsource.org.apache.commons.io-1.4.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="com.springsource.org.apache.commons.fileupload-1.2.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Di M/Downloads/jar/com.springsource.org.apache.commons.fileupload-1.2.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="java-output-path" value="/E-Mo/build/classes"/>
+        <property name="context-root" value="E-Mo"/>
+    </wb-module>
+</project-modules>
