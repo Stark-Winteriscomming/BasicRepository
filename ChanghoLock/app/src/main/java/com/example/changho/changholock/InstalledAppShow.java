@@ -121,9 +121,9 @@ public class InstalledAppShow extends Activity {
                 //
 
                 // 서비스로 리스트 값 보내기
-                serviceIntent.putExtra("list",lockAppList);
+                //serviceIntent.putExtra("list",lockAppList);
 
-                targetedAppShowIntent.putExtra("list",lockAppList);
+                //targetedAppShowIntent.putExtra("list",lockAppList);
 
                 // testing
                 for(String appList : lockAppList){

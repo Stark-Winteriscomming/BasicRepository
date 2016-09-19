@@ -78,13 +78,14 @@ public class TargetedApp extends Activity{
         intent.addCategory(Intent.CATEGORY_LAUNCHER);
         List<ResolveInfo> list = pm.queryIntentActivities(intent, 0);
         //
-        Intent targettingIntent = getIntent();
-        target_list = targettingIntent.getStringArrayListExtra("list");
-        if(target_list != null)
-        original_target_list = target_list;
-        if(original_target_list != null)
-        for (int i=0; i<original_target_list.size(); i++) {
-            String target = original_target_list.get(i);
+        //Intent targettingIntent = getIntent();
+        //target_list = targettingIntent.getStringArrayListExtra("list");
+        //if(target_list != null)
+        //original_target_list = target_list;
+
+        if(SharedData.targetedList != null)
+        for (int i=0; i<SharedData.targetedList.size(); i++) {
+            String target = SharedData.targetedList.get(i);
             //String name = String.valueOf(applicationInfo.loadLabel(pm));    // 앱 이름
             //String pName = applicationInfo.activityInfo.packageName;   // 앱 패키지
             try
