@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "886264074426",
+    "project_id": "default-demo-app-bb0b8"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886264074426:android:ba412fa84bda995a",
+        "android_client_info": {
+          "package_name": "com.example.changho.changholock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvm822poz52_NUgzFX2qRjhMCLhTbQ13o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
