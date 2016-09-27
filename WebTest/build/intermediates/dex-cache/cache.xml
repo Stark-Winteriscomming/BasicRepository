@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\WebTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Changho\Desktop\android_project\WebTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_28318e6bd87185807e2d6a04f30b425736f6189a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\WebTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="91f13bafbc43ba19604b546cd12566274865edc3">
+        <dex dex="C:\Users\Changho\Desktop\android_project\WebTest\app\build\intermediates\pre-dexed\debug\instant-run_60b8157dd91ef60d49473938e8a908c2ea96187c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\WebTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Changho\Desktop\android_project\WebTest\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_dc808e0960d64d147bb9c5d1941a8b5a2c12e57a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Changho\Desktop\android_project\WebTest\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_05bb93c39a368e7c0733f4e09f4206241c52fc97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\WebTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3e42452f3a4c3e1ae8335b06c5e0e178e88a9139">
+        <dex dex="C:\Users\Changho\Desktop\android_project\WebTest\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9a4df0e8e1fa9e958b7204bf64ad15738cbc62da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\WebTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Changho\Desktop\android_project\WebTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_b5f6ec0a7bc9003974c26e9777dbf10a61a73012.jar" />
+    </item>
+
+</items>
