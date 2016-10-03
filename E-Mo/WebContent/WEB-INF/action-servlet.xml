@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+	<!-- HandlerMapping -->
+	<bean id="urlMappingWithControllers" class="org.springframework.web.servlet.mvc.support.ControllerClassNameHandlerMapping" p:alwaysUseFullPath="true" p:order="0"/>
+	<bean id="handlerMapping" class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">
+		<property name="mappings">
+			<props>
+				<prop key="/showGrade.do">showGradeController</prop>
+				<prop key="/registerGrade.do">registerGradeController</prop>
+				<prop key="/insert.do">insertGradeController</prop>
+				<prop key="/chart.do">showStudentMonthGradeController</prop>
+				<prop key="/showMonthGrade.do">showMonthGradeController</prop>
+				<prop key="/updateGrade.do">updateGradeController</prop>	
+				<prop key="/editGrade.do">editGradeController</prop>
+				<prop key="/deleteGrade.do">deleteGradeController</prop>	
+				<prop key="/removeGrade.do">removeGradeController</prop>	
+			</props> 
+		</property>
+	</bean>
+	
+	<!-- ViewResolver -->
+<bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver" p:viewClass="org.springframework.web.servlet.view.JstlView" p:prefix="/" p:suffix=".jsp"/>
+	 
+  
+   <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <property name="defaultEncoding" value="euc-kr"></property>
+        <property name="maxUploadSize" value="52428800"></property>
+</bean>
+
+<bean id="Certify" name="certify.jsp" class="Controller.CertifyController">
+	<property name="userDaoimpl">
+	<ref bean="userDaoimpl"></ref>
+	</property>
+</bean>  
+
+<bean id="userDaoimpl"  class="dao.impl.userDaoimpl">
+	<property name="dataSource">
+	<ref bean="dataSource"></ref>
+	</property>
+</bean>
+
+<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+		<property name="driverClassName"><value>com.mysql.jdbc.Driver</value></property>
+		<property name="url"><value>jdbc:mysql://127.0.0.1/enterprise</value></property>
+		<property name="username"><value>root</value></property>
+		<property name="password"><value>1234</value></property>
+</bean>
+
+<bean id="Student" name="student.jsp" class="Controller.StudentController">
+	<property name="studentDaoimpl">
+	<ref bean="studentDaoimpl"></ref>
+	</property>
+</bean>  
+  
+<bean id="studentDaoimpl"  class="dao.impl.studentDaoimpl">
+	<property name="dataSource">
+	<ref bean="dataSource"></ref>
+	</property>
+</bean>
+
+<bean id="Register" name="register_mid.jsp" class="Controller.Register_midController">
+	<property name="studentfixDaoimpl">
+	<ref bean="studentfixDaoimpl"></ref>
+	</property>	
+</bean>  
+  
+<bean id="studentfixDaoimpl"  class="dao.impl.studentfixDaoimpl">
+	<property name="dataSource">
+	<ref bean="dataSource"></ref>
+	</property>
+</bean> 
+
+<bean id="Choose" name="choose.jsp" class="Controller.ChooseController">
+	<property name="chooseDaoimpl">
+	<ref bean="chooseDaoimpl"></ref>
+	</property>	
+</bean>  
+  
+<bean id="chooseDaoimpl"  class="dao.impl.chooseDaoimpl">
+	<property name="dataSource">
+	<ref bean="dataSource"></ref>
+	</property>
+</bean>
+
+<bean id="Modify" name="modify_mid.jsp" class="Controller.Modify_midController">
+	<property name="studentfixDaoimpl">
+	<ref bean="studentfixDaoimpl"></ref>
+	</property>	
+</bean>
+
+<bean id="Choose2" name="choose2.jsp" class="Controller.Choose2Controller">
+	<property name="chooseDaoimpl">
+	<ref bean="chooseDaoimpl"></ref>
+	</property>	
+</bean>  
+
+<bean id="Delete" name="delete_mid.jsp" class="Controller.Delete_midController">
+	<property name="studentfixDaoimpl">
+	<ref bean="studentfixDaoimpl"></ref>
+	</property>	
+</bean>
+
+<bean id="Search" name="search_mid.jsp" class="Controller.Search_midController">
+	<property name="searchDaoimpl">
+	<ref bean="searchDaoimpl"></ref>
+	</property>	
+</bean>
+
+<bean id="searchDaoimpl"  class="dao.impl.searchDaoimpl">
+	<property name="dataSource">
+	<ref bean="dataSource"></ref>
+	</property>
+</bean>
+
+<!--  -->
+<bean id="showGradeController" name="showGrade" class="Controller.ShowGradeController">
+	<property name="gradeDaoImpl">
+	<ref bean="gradeDaoImpl"></ref>
+	</property>
+</bean>
+
+<bean id="showStudentMonthGradeController" name="showStudentMonthGrade" class="Controller.ShowStudentMonthGradeController">
+	<property name="gradeDaoImpl">
+	<ref bean="gradeDaoImpl"></ref>
+	</property>
+</bean>  
+
+<bean id="showMonthGradeController" name="showMonthGrade" class="Controller.ShowMonthGradeController">
+	<property name="gradeDaoImpl">
+	<ref bean="gradeDaoImpl"></ref>
+	</property>
+</bean>  
+
+<bean id="registerGradeController" name="registerGrade" class="Controller.RegisterGradeController" />
+
+<bean id="insertGradeController" name="insertGrade" class="Controller.InsertGradeController">
+	<property name="gradeDaoImpl">
+		<ref bean="gradeDaoImpl"></ref>
+	</property>
+	<property name="studentDaoImpl">
+		<ref bean="studentDaoimpl"></ref>
+	</property>
+</bean> 
+
+<bean id="editGradeController" name="editGrade" class="Controller.EditGradeController" />
+
+<bean id="updateGradeController" name="updateGrade" class="Controller.UpdateGradeController">
+	<property name="gradeDaoImpl">
+		<ref bean="gradeDaoImpl"></ref>
+	</property>
+</bean> 
+
+<bean id="removeGradeController" name="removeGrade" class="Controller.RemoveGradeController" />
+
+<bean id="deleteGradeController" name="deleteGrade" class="Controller.DeleteGradeController">
+	<property name="gradeDaoImpl">
+		<ref bean="gradeDaoImpl"></ref>
+	</property>
+</bean> 
+
+ 
+<bean id="gradeDaoImpl"  class="dao.impl.GradeDaoImpl">
+	<property name="dataSource">
+	<ref bean="dataSource"></ref>
+	</property>
+</bean>
+
+<!--  -->
+<bean id="grade"  class="model.Grade" />
+<!--  -->
+
+</beans>
+
+
+
