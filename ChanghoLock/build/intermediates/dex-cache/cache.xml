@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.2.1_73a3e48c8803a43bcf935e6169d486d7d4778dec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.2.1_51f7c7cc143a12b8debd2598b84d6b2d5953c9da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_b85740a2bc21d0860a3ab8d4a34b628a00d179a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_38cdfa29cf7f700cbb82a837117a4a639bfa0eef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.2.1_b128f6487bc86a3a45c9497bb2e3de81f2fc8ae1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.2.1_b03731f2c7b716adb829a6267816c4bcbdadb7ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.2.1_ec58d493eac76b889dbc114901520fce24150a69.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_d5007e53a2e109a00db28e42cd758782968c6b7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.2.1_5caa7449f698c36f7d909375e0e38ab5c0e17502.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.2.1_a1bb1e9ecd21af81c7e24dc05ac39063a97013fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.2.1_ae241a0f4319b916003e2a92926c9bd22f153030.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.2.1_93e3afd6e6d8ea017f889d86a42103711d339999.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_7296f5e558004fd0501d1e80f400e3b2b4ae1c1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_adea8e16e73b419aeae6d0961252d5f33c2c5556.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.2.1_d9f190abf5c4868f2d2f6467b65be16570911deb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.2.1_614fdae6311f9d082c8d5e2191126a017ba84c5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.2.1_da446c96a7dcfaa4386f97dc79f1a7bd5d300fdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.2.1_313b3b68f242316afee25352938ea9e80984cb45.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.2.1_51be6c7d30930fbea255b351ec5b0b0633fa1887.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.2.1_1f7df13416a6399b653a67041a2ddca2956ddbc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_5fa3c9ec48eac7aae3f0963edf594d0acb36d4af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.2.1_ee88d90458b76b111bcdf7418ee20d24db7bda05.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.2.1_0725d04ab83e774007f480cc46ed32a4db1f2342.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.2.1_835c96ef4d75ea935ad6e4762b953af620f7bd9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_971530814e436217a0e6f2cdd2b17bf734f584a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.2.1_335dbd6c55277d9ea7c465523cd9e8358028c3bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.2.1_ffb83383b6bcfb0eb88f3bab0fc6190803e4d702.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.2.1_2d033f08e5b62db3d67d94a873825c4d0391f121.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.2.1_4106d5ca533108c007785ff8393cd4c589a46a62.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.2.1_a72bfbfcc6cfc2f0069fe7e22b0829013abae31a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="93c1f8de7150cd9cc8f37eea1c49c33cab29f2d9">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\instant-run_9a4e28dcc497bed0d5573af40258694a84774ce3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.2.1_bc70d34f7e946135e6e32e5cb670dca6462f21b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="252f451efa0d2d3904966a2340d7367af71d2619">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_91de9531a21b38d3ad7000e4a98ce5ccd5b3121e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.2.1_a0342d748a649e96a46a4528468978af1c58ef59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.2.1_564f1c36aca28dad79dd4b5cd9378036af699372.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.2.1_adfcee57666b65b79fbda0dc12d4501cf5118ade.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_f2138970dd795bef481ac2930244157b07fdafba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_f7e9b21a3169024f42826a0f8d142e5f4c4e3e64.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-9.2.1_fc059293551a94f40f5a08b810349a4cf00634bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.2.1_c867d8875a8ac3c145173464a8f37b31c6bd37b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_c51de1d709fe3ede733fffd696da02079b4ab410.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.2.1_3831e49873d55b48bace4f5641812c2bc2dfc349.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.2.1_f15d0d04cff7a73f91449b484e698f6a524b9d24.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.2.1_1191ff96c696812971f2dfdf8500609bb59c47a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.2.1_86184c1ac56affbf04f1a35036f816cd3a50b0a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.2.1_90fbc87a2cf692729ad2c223dc18a5b50b2a63c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\libs\gcm.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\gcm_6ae1e540cf0c7ca114d8ceb7c23a3b4b3c6b9638.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.2.1_b2f299e8dab9189044c36200bd31e5fea68aecde.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.2.1_126923e6b775f3d19aa906273c377708343f213c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.2.1_031cc6417923649be73735044b51ca308f2a5393.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.2.1_1512b2461d9ac61e5ce59508faa0489f179b1d56.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.2.1_82407861da7a5a8dff777b19483903020d97224a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.2.1_77022c623cf89f8661301ec839db55d3f9ecb162.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.2.1_9ac60d09577e215ab59783f0eb5fad0334e5a431.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.2.1_c1aeeb862088e36012baa1a5c4345f985dab8812.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.2.1_ae64128b4a5878f8cc94c8f0b640256f2082792e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.2.1_063de8ad0d04b5926bc221f7378ebf670e91937e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-contextmanager-9.2.1_7517b695be7516cb185d3947824104317d822bde.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.2.1_8fc0ae94386e3b1bcba0a92e9e3e72e206bd952b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.2.1_fafc4dfe216bf89122278c6e784cf87f1f7080cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="C:\Users\Changho\Desktop\android_project\ChanghoLock\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.2.1_842d5169752ba622b1c98d6313aa99fceb19449d.jar" />
+    </item>
+
+</items>
