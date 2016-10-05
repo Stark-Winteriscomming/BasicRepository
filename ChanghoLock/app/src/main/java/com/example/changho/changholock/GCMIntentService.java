@@ -17,6 +17,7 @@ import android.util.Log;
 import android.widget.Toast;
 
 import com.google.android.gcm.GCMBaseIntentService;
+
 public class GCMIntentService extends GCMBaseIntentService {
 
     public final static String SENDER_ID = "886264074426";

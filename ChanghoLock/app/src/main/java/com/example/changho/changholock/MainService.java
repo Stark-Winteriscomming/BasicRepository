@@ -9,6 +9,7 @@ import android.app.PendingIntent;
 import android.app.Service;
 import android.content.Context;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.os.IBinder;
 import android.os.SystemClock;
 import android.util.Log;
@@ -37,8 +38,9 @@ public class MainService extends Service {
     //변수 끝
 
 
-    // testing
-    // 바로 서비스 시작
+    // 0928
+    private String installedAppName;
+    InstalledAppReceiver installedAppReceiver;
 
     @Override
     public void onTaskRemoved(Intent rootIntent) {
@@ -65,13 +67,22 @@ public class MainService extends Service {
     }
     @Override
     public void onCreate(){
-        // testing
-        //serviceList = new ArrayList<>();
         Toast.makeText(this, "Service start", Toast.LENGTH_LONG).show();
+
+        // 0928
+
+
+        installedAppReceiver = new InstalledAppReceiver();
+        registerReceiver(installedAppReceiver, new IntentFilter(
+                Intent.ACTION_PACKAGE_ADDED));
+
+
     }
     @Override
     public void onDestroy() {
         Log.d("service"," destroyed");
+        // 0928
+        unregisterReceiver(installedAppReceiver);
         Toast.makeText(this, "Service Destroyed", Toast.LENGTH_LONG).show();
     }
     //me: onStratCommand에 주 수행 작업을 코딩하는 듯

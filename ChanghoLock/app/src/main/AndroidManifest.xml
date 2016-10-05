@@ -20,7 +20,8 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme"
+        android:name="android.support.multidex.MultiDexApplication">
 
         <!-- GCM 수신 BroadcastReceiver -->
         <service android:name=".GCMIntentService" />
@@ -51,6 +52,16 @@
         <activity android:name=".TargetedApp"></activity>
         <activity android:name=".NotificationActivity"></activity>
 
+        <activity
+            android:name=".Controller"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
         <!-- Broadcast receiver -->
         <receiver
             android:name="com.google.android.gcm.GCMBroadcastReceiver"
@@ -64,15 +75,15 @@
         </receiver>
         <!-- end -->
 
-        <activity
-            android:name=".Controller"
-            android:label="@string/app_name">
+        <!-- Broadcast Receiver for installed app sending -->
+        <receiver android:name=".InstalledAppReceiver" >
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+                <action android:name="android.intent.action.PACKAGE_REPLACED" />
+                <data android:scheme="package" />
             </intent-filter>
-        </activity>
+        </receiver>
 
         <receiver
             android:name=".Controller$Device_Admin_Test"

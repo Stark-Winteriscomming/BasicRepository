@@ -12,4 +12,5 @@ import java.util.ArrayList;
 public class SharedData {
      static ArrayList<String> targetedList = new ArrayList<>();
      static String currentActivity;
+     static ArrayList<String> installedApps = new ArrayList<>();
 }

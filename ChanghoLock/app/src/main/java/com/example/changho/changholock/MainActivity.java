@@ -3,6 +3,10 @@ package com.example.changho.changholock;
 import android.app.ActivityManager;
 import android.content.Context;
 import android.content.Intent;
+import android.content.IntentFilter;
+import android.content.pm.PackageManager;
+import android.content.pm.ResolveInfo;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -38,6 +42,21 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //testing
+
+        final PackageManager pm = this.getApplicationContext().getPackageManager();
+        Intent intent = new Intent(Intent.ACTION_MAIN);
+        intent.addCategory(Intent.CATEGORY_LAUNCHER);
+        List<ResolveInfo> list = pm.queryIntentActivities(intent, 0);
+
+        //
+        for (ResolveInfo applicationInfo : list) {
+            String pName = applicationInfo.activityInfo.packageName;   // 앱 패키지
+            SharedData.installedApps.add(pName);
+        }
+        // test_neworkAccess
+
+        NetworkAccess networkAccess = new NetworkAccess();
 
         // testing
         if(MainService.serviceList != null){
